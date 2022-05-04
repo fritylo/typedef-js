@@ -1,0 +1,30 @@
+{
+  "name": "typedef-js",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Type definition library for JS (JavaScript). Lightweight TypeScript-like type checking.",
+  "main": "use-case.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fritylo/typedef-js.git"
+  },
+  "keywords": [
+    "typescript",
+    "type check",
+    "type def",
+    "type definition",
+    "javascript",
+    "js",
+    "ts",
+    "tds"
+  ],
+  "author": "fritylo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fritylo/typedef-js/issues"
+  },
+  "homepage": "https://github.com/fritylo/typedef-js#readme"
+}
